@@ -1,0 +1,24 @@
+.header{
+
+    background-image: url(/image/05.avif);
+    background-size: cover;
+    height: 200px;
+    color: white;
+    background-repeat: no-repeat;
+    /* background-position: bottom; */
+
+}
+h3{
+    color: blueviolet;
+    text-decoration: underline wavy green;
+}
+
+/* h3{
+    color: magenta;
+} */
+p{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
